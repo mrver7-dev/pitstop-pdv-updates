@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.2",
-    "packageUrl":  "https://github.com/mrver7-dev/pitstop-pdv-updates/releases/download/prod-v1.0.2/SistemaConveniencia-prod-1.0.2.zip",
-    "sha256":  "3dc73e14dfe9b1b7a75794ce555710d8edf5dc95c6a6810a24867d152a228b68",
-    "notes":  "Correcoes\r\n- Cores mais visiveis no painel de fechamento de caixa",
-    "publishedAtUtc":  "2026-06-30T01:16:41.1367115Z"
+    "version":  "1.0.3",
+    "packageUrl":  "https://github.com/mrver7-dev/pitstop-pdv-updates/releases/download/prod-v1.0.3/SistemaConveniencia-prod-1.0.3.zip",
+    "sha256":  "1cee87dc019ac7f368b6598a13d9e9e7d43705659753244fac0640a970f758f7",
+    "notes":  "Correcoes\r\n-Correção do Calculo de Fechamento do Caixa \r\n\r\nObservacoes\r\nAtualizar antes do proximo fechamento\r\n- Versao: 1.0.3",
+    "publishedAtUtc":  "2026-07-01T17:45:28.9511484Z"
 }
