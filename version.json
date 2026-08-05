@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.3",
-    "packageUrl":  "https://github.com/mrver7-dev/pitstop-pdv-updates/releases/download/prod-v1.0.3/SistemaConveniencia-prod-1.0.3.zip",
-    "sha256":  "1cee87dc019ac7f368b6598a13d9e9e7d43705659753244fac0640a970f758f7",
-    "notes":  "Correcoes\r\n-Correção do Calculo de Fechamento do Caixa \r\n\r\nObservacoes\r\nAtualizar antes do proximo fechamento\r\n- Versao: 1.0.3",
-    "publishedAtUtc":  "2026-07-01T17:45:28.9511484Z"
+    "version":  "1.0.4",
+    "packageUrl":  "https://github.com/mrver7-dev/pitstop-pdv-updates/releases/download/prod-v1.0.4/SistemaConveniencia-prod-1.0.4.zip",
+    "sha256":  "0cde7d91689234941a7f7ab57bbdba3960633e67785091d7f580753f09e1fc5b",
+    "notes":  "Correcoes\n- Ajustes no fluxo de correcao de NFC-e rejeitada\n- Retorno rapido da tela de produtos para notas pendentes\n- Refinos de estabilidade no fluxo fiscal e de contingencia\nObservacoes\n- Revisao final e build Release validados em 05/08/2026\n- Versao: 1.0.4",
+    "publishedAtUtc":  "2026-08-05T18:14:25.2119816Z"
 }
