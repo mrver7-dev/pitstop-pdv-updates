@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.4",
-    "packageUrl":  "https://github.com/mrver7-dev/pitstop-pdv-updates/releases/download/prod-v1.0.4/SistemaConveniencia-prod-1.0.4.zip",
-    "sha256":  "0cde7d91689234941a7f7ab57bbdba3960633e67785091d7f580753f09e1fc5b",
-    "notes":  "Correcoes\n- Ajustes no fluxo de correcao de NFC-e rejeitada\n- Retorno rapido da tela de produtos para notas pendentes\n- Refinos de estabilidade no fluxo fiscal e de contingencia\nObservacoes\n- Revisao final e build Release validados em 05/08/2026\n- Versao: 1.0.4",
-    "publishedAtUtc":  "2026-08-05T18:14:25.2119816Z"
+    "version":  "1.0.5",
+    "packageUrl":  "https://github.com/mrver7-dev/pitstop-pdv-updates/releases/download/prod-v1.0.5/SistemaConveniencia-prod-1.0.5.zip",
+    "sha256":  "fcf0d9e88f23cd1446052ba3daaa801c90de8d5d751e12a2bf1b7856bb02742c",
+    "notes":  "Correcoes\n- Corrige rejeicao SEFAZ 963 em pagamentos PIX usando o codigo fiscal aceito pela regra atual\n- Normaliza pendencias antigas de PIX antes da retransmissao automatica\nObservacoes\n- Build Release validada em 06/08/2026\n- Versao: 1.0.5",
+    "publishedAtUtc":  "2026-08-06T03:35:46.0268528Z"
 }
