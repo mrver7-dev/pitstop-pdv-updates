@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.5",
-    "packageUrl":  "https://github.com/mrver7-dev/pitstop-pdv-updates/releases/download/prod-v1.0.5/SistemaConveniencia-prod-1.0.5.zip",
-    "sha256":  "fcf0d9e88f23cd1446052ba3daaa801c90de8d5d751e12a2bf1b7856bb02742c",
-    "notes":  "Correcoes\n- Corrige rejeicao SEFAZ 963 em pagamentos PIX usando o codigo fiscal aceito pela regra atual\n- Normaliza pendencias antigas de PIX antes da retransmissao automatica\nObservacoes\n- Build Release validada em 06/08/2026\n- Versao: 1.0.5",
-    "publishedAtUtc":  "2026-08-06T03:35:46.0268528Z"
+    "version":  "1.0.6",
+    "packageUrl":  "https://github.com/mrver7-dev/pitstop-pdv-updates/releases/download/prod-v1.0.6/SistemaConveniencia-prod-1.0.6.zip",
+    "sha256":  "b97677fabb7b8ec0f41de39f80fe07e16c9073e65dc00a78f8909811dd180935",
+    "notes":  "Correcoes\n- Atualiza automaticamente o proprio atualizador nas proximas aberturas do sistema\n- Ajusta o fluxo de comandas removendo a acao redundante de visualizacao\n- Evita rearranjo visual da tela de vendas ao carregar uma comanda para pagamento\n\nObservacoes\n- Build Release validada em 19/08/2026\n- Versao: 1.0.6",
+    "publishedAtUtc":  "2026-08-19T17:06:24.4488483Z"
 }
