@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.6",
-    "packageUrl":  "https://github.com/mrver7-dev/pitstop-pdv-updates/releases/download/prod-v1.0.6/SistemaConveniencia-prod-1.0.6.zip",
-    "sha256":  "b97677fabb7b8ec0f41de39f80fe07e16c9073e65dc00a78f8909811dd180935",
-    "notes":  "Correcoes\n- Atualiza automaticamente o proprio atualizador nas proximas aberturas do sistema\n- Ajusta o fluxo de comandas removendo a acao redundante de visualizacao\n- Evita rearranjo visual da tela de vendas ao carregar uma comanda para pagamento\n\nObservacoes\n- Build Release validada em 19/08/2026\n- Versao: 1.0.6",
-    "publishedAtUtc":  "2026-08-19T17:06:24.4488483Z"
+    "version":  "1.0.7",
+    "packageUrl":  "https://github.com/mrver7-dev/pitstop-pdv-updates/releases/download/prod-v1.0.7/SistemaConveniencia-prod-1.0.7.zip",
+    "sha256":  "9e72f2f03acf48011c63553bb605490e6376e05d66305f26d24ab2916eef6d03",
+    "notes":  "Novidades da versao 1.0.7\n\n- Comandas: agora e possivel editar e excluir comandas abertas.\n- Comandas: agora e possivel editar quantidade e valor unitario dos itens da comanda.\n- Comandas: agora e possivel remover item lancado por engano.\n- Caixa: novo botao Desconto, com desconto por valor ou percentual.\n- Caixa: desconto pode ser aplicado no total da venda ou no item selecionado.\n- Ajuste interno: ao aplicar desconto, o sistema recalcula total, recebido/troco, pagamento misto e valores usados na NFC-e.",
+    "publishedAtUtc":  "2026-08-22T22:20:03.2704273Z"
 }
