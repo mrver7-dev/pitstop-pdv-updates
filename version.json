@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.7",
-    "packageUrl":  "https://github.com/mrver7-dev/pitstop-pdv-updates/releases/download/prod-v1.0.7/SistemaConveniencia-prod-1.0.7.zip",
-    "sha256":  "9e72f2f03acf48011c63553bb605490e6376e05d66305f26d24ab2916eef6d03",
-    "notes":  "Novidades da versao 1.0.7\n\n- Comandas: agora e possivel editar e excluir comandas abertas.\n- Comandas: agora e possivel editar quantidade e valor unitario dos itens da comanda.\n- Comandas: agora e possivel remover item lancado por engano.\n- Caixa: novo botao Desconto, com desconto por valor ou percentual.\n- Caixa: desconto pode ser aplicado no total da venda ou no item selecionado.\n- Ajuste interno: ao aplicar desconto, o sistema recalcula total, recebido/troco, pagamento misto e valores usados na NFC-e.",
-    "publishedAtUtc":  "2026-08-22T22:20:03.2704273Z"
+    "version":  "1.0.8",
+    "packageUrl":  "https://github.com/mrver7-dev/pitstop-pdv-updates/releases/download/prod-v1.0.8/SistemaConveniencia-prod-1.0.8.zip",
+    "sha256":  "605af6d49d7e510b7e02df852736314ae6de8acd6e199ca6f4d8b6b7d4554f4c",
+    "notes":  "Novidades da versao 1.0.8\n\n- Tela principal: menu lateral compacta automaticamente em monitores de baixa resolucao.\n- Tela principal: imagens dos botoes sao reduzidas no modo compacto para evitar corte do ultimo botao.\n- Tela de vendas: bloco de recebimento/troco foi reposicionado para alinhar pela esquerda do grid em baixa resolucao.\n- Tela de vendas: ajuste visual para dar mais espaco aos campos de forma de pagamento em monitores 720p.",
+    "publishedAtUtc":  "2026-08-23T14:30:02.9688351Z"
 }
