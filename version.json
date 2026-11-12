@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.9",
-    "packageUrl":  "https://github.com/mrver7-dev/pitstop-pdv-updates/releases/download/prod-v1.0.9/SistemaConveniencia-prod-1.0.9.zip",
-    "sha256":  "29e3934ee1d49ff4e83776b9b992f31f2353abaf6c45026349f460c8d40c3582",
-    "notes":  "Comandas: historico de comandas fechadas por 60 dias, com abertura, fechamento, operadores, venda vinculada e metodo de pagamento. Itens de comanda: data e hora de inclusao preservadas. Banco: migracao automatica para registrar o metodo de pagamento do fechamento e limpeza de historico expirado.",
-    "publishedAtUtc":  "2026-11-03T22:56:15.0516077Z"
+    "version":  "1.0.10",
+    "packageUrl":  "https://github.com/mrver7-dev/pitstop-pdv-updates/releases/download/prod-v1.0.10/SistemaConveniencia-prod-1.0.10.zip",
+    "sha256":  "17f54a7eca87d6eed2c92eff2a2f37033d92824ffe0233232b8f861df910250b",
+    "notes":  "Correcoes fiscais e melhorias de operacao\n\n- Corrigido o cancelamento de NFC-e com protocolo legado e versao correta do evento.\n- Normalizacao de nomes e descricoes de produtos antes do cadastro e da emissao.\n- Mensagens fiscais mais amigaveis para o operador.\n- Adicionado acesso ao log de erros fiscais no Gerenciamento.",
+    "publishedAtUtc":  "2026-11-12T14:47:54.6894193Z"
 }
